@@ -1,0 +1,15 @@
+C:\Users\SURAJ\Documents\GitHub\DeckOfCards\CardGame\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\SURAJ\Documents\GitHub\DeckOfCards\CardGame\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\SURAJ\Documents\GitHub\DeckOfCards\CardGame\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\SURAJ\Documents\GitHub\DeckOfCards\CardGame\UnitTests\bin\Debug\CardGame.UnitTests.dll
+C:\Users\SURAJ\Documents\GitHub\DeckOfCards\CardGame\UnitTests\bin\Debug\CardGame.UnitTests.pdb
+C:\Users\SURAJ\Documents\GitHub\DeckOfCards\CardGame\UnitTests\bin\Debug\CardGame.exe
+C:\Users\SURAJ\Documents\GitHub\DeckOfCards\CardGame\UnitTests\bin\Debug\nunit.framework.dll
+C:\Users\SURAJ\Documents\GitHub\DeckOfCards\CardGame\UnitTests\bin\Debug\CardGame.pdb
+C:\Users\SURAJ\Documents\GitHub\DeckOfCards\CardGame\UnitTests\bin\Debug\CardGame.exe.config
+C:\Users\SURAJ\Documents\GitHub\DeckOfCards\CardGame\UnitTests\bin\Debug\nunit.framework.pdb
+C:\Users\SURAJ\Documents\GitHub\DeckOfCards\CardGame\UnitTests\bin\Debug\nunit.framework.xml
+C:\Users\SURAJ\Documents\GitHub\DeckOfCards\CardGame\UnitTests\obj\Debug\CardGame.UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\SURAJ\Documents\GitHub\DeckOfCards\CardGame\UnitTests\obj\Debug\CardGame.UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\SURAJ\Documents\GitHub\DeckOfCards\CardGame\UnitTests\obj\Debug\CardGame.UnitTests.dll
+C:\Users\SURAJ\Documents\GitHub\DeckOfCards\CardGame\UnitTests\obj\Debug\CardGame.UnitTests.pdb
